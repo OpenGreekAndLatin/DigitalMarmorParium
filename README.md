@@ -1,2 +1,3 @@
-# DigitalMarmorParium
-A digital edition of the Marmor Parium inscription
+# Digital Marmor Parium
+
+The <a href="http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/digital-marmor-parium/">Digital Marmor Parium</a> is a project of the Humboldt Chair of Digital Humanities at the University of Leipzig. The aim of this work is to produce a new digital edition of the so called Marmor Parium (Parian Marble), which is a Hellenistic chronicle on a marble slab coming from the Greek island of Paros. The importance of the document is due to the fact that it preserves a Greek chronology (1581/80-299/98 BC) with a list of kings and archons accompanied by short references to historical events mainly based on the Athenian history. The project team is producing a new XML edition of the text according to the EpiDoc Guidelines, treebanking the text, encoding all the named entities, and producing a timeline visualization of the chronological information preserved on the stone.
